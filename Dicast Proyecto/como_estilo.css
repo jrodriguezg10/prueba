@@ -1,0 +1,123 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.row{
+	overflow: auto;
+}
+.col{
+	float: left;
+}
+.menugeneral{
+	width:100%;
+	margin: 0px 0px;
+	background-color: #F9A442;
+	
+}
+.menu1{
+	width: 20%;
+	margin: 10px 0 0px 10px;
+
+}
+.enfasis{
+	background-color: white;
+	padding: 5px 5px;
+	border: 2px solid;
+	border-radius: 5px;
+	text-align: center;	
+}
+.logod{
+	width: 150px;
+}
+
+.menu2{
+	width: 70%;
+	color: #464445;	
+	float: right;
+}
+p{
+	margin: 0 0;
+}
+
+.menu211{
+	list-style: none;
+	width: 20%;
+}
+
+
+.caja2{
+	font-size: 40px;
+	text-align: center;
+	margin: 0px 0px;
+	padding: 30px 0;
+	background-color: #d1d2d4;
+
+}
+
+.caja3{
+	background-color: #d1d2d4;
+
+}
+.caja31{
+	width: 45%;
+	font-size: 30px;
+	text-align: right;
+	margin: 30px 0px;
+
+
+}
+.caja311{
+	list-style: none;
+}
+.caja32{
+	width: 45%;
+	text-align: center;
+}
+.imagen32{
+	width: 30%;
+}
+
+.caja5{
+	background-color: #F9A442;
+	color: #464445;
+	text-align: center;
+	padding: 20px 0px;
+}
+.caja51{
+	width: 33%
+}
+.caja6{
+	text-align: center;
+	background-color: #F9A442;
+	color: white;
+	padding: 10px 0px;	
+}
+.caja61{
+	width: 50%;
+}
+.caja7{
+	background-color: #F9A442;
+	
+}
+.caja71{
+	width: 50%;
+	text-align: center;
+
+}
+.imagen71{
+	width: 35%;
+}
+.imagen72{
+	width: 70%;
+	
+	
+}
+.logosw{
+	width: 30%;
+}
+.caja8{
+	text-align: center;
+	background-color: #F9A442;
+	padding: 10px 0px;
+	color: #464445;
+}

@@ -1,0 +1,153 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: Raleway;
+}
+.row{
+	overflow: auto;
+}
+.col{
+	float: left;
+}
+.menugeneral{
+	width:100%;
+	margin: 0px 0px;
+	background-color: #F9A442;
+	
+}
+.menu1{
+	width: 20%;
+	margin: 10px 0 0px 10px;
+
+}
+.enfasis{
+	background-color: white;
+	padding: 5px 5px;
+	border: 2px solid;
+	border-radius: 5px;
+	text-align: center;	
+}
+.logod{
+	width: 150px;
+}
+
+.menu2{
+	
+	width: 70%;
+	color: #464445;	
+	float: right;
+}
+
+.menu211{
+	list-style: none;
+	width: 20%;
+}
+
+
+.caja2{
+	
+}
+.caja21{
+	font-size: 40px;
+	margin: 30px 10%;
+	text-align: center;
+}
+.cajaimagen{
+	background-image: url(img/14624.jpg);
+}
+
+.caja3{
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 0px 0px;
+	padding: 0px;
+
+}
+p{
+	margin: 0 0;
+}
+
+.caja4{
+			
+	margin:0 0%;
+	text-align: center;
+}
+.caja4A{
+	margin: 0 25% 40px 25%;
+}
+
+.caja411{
+	width: 30%;
+}
+
+.caja421{
+	width: 20%;
+}
+.caja5{
+	background-color: #F9A442;
+	color: #464445;
+	text-align: center;
+	padding: 20px 0px;
+}
+.caja51{
+	width: 33%
+}
+.caja6{
+	text-align: center;
+	background-color: #F9A442;
+	color: white;
+	padding: 10px 0px;	
+}
+.caja61{
+	width: 50%;
+	text-align:center;
+}
+.caja62{
+	width: 50%;
+	text-align: left;
+}
+.caja7{
+	background-color: #F9A442;
+	
+}
+.caja71{
+	width: 50%;
+	text-align: center;
+}
+.imagen71{
+	width: 30%;
+}
+.caja72{
+	width: 50%;
+	
+}
+
+.caja721{
+	width: 50%;
+	text-align: right;
+}
+.caja722{
+	width: 50%;
+	text-align: right;
+
+	
+}
+
+.imagen72{
+	width: 60%;
+
+}
+.imagen73{
+	width: 35%;
+}
+
+.caja8{
+	text-align: center;
+	background-color: #F9A442;
+	padding: 10px 0px;
+	color: #464445;
+}
+
+
+
+
